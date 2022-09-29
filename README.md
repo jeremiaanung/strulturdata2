@@ -1,0 +1,1 @@
+# strulturdata2
